@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "941871089491",
+    "project_id": "shoe-hub-fd434",
+    "storage_bucket": "shoe-hub-fd434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941871089491:android:8e8020d1214d3d909203a6",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941871089491-k35allsd8tmq91vnkkirgnu8msuk14c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDbjTvNx3D2ycVtObDH8ezuxMsf8RcTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941871089491-k35allsd8tmq91vnkkirgnu8msuk14c5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941871089491-rakl75jluuiblb2964ns4eto91f25rcv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grocery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
